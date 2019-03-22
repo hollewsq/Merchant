@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Home"
+        android:icon="@mipmap/home_black"
+        android:title="" />
+
+    <item
+        android:id="@+id/Circle"
+        android:icon="@mipmap/circle_black"
+        android:title="" />
+
+    <item
+        android:id="@+id/Cart"
+        android:icon="@drawable/ic_cart"
+        android:title="" />
+
+    <item
+        android:id="@+id/Order"
+        android:icon="@mipmap/list_black"
+        android:title="" />
+
+    <item
+        android:id="@+id/My"
+        android:icon="@mipmap/my_black"
+        android:title="" />
+
+</menu>
